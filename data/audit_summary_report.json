@@ -1,0 +1,8 @@
+{
+  "Total_Logs_Scanned": 10000,
+  "Normal_Operations": 6832,
+  "SoD_Violations": 1356,
+  "Unauthorized_Attempts": 70,
+  "Off_Hours_Anomalies": 1742,
+  "Audit_Run_Date": "2026-10-23T12:48:08.053569"
+}
